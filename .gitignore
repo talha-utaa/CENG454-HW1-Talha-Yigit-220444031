@@ -4,10 +4,11 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Oo]bj/
+/[Uu]ser[Ss]ettings/
 /.vs/
+/.vscode
 
 # OS files
 .DS_Store
 Thumbs.db
 Desktop.ini
-/.vscode
